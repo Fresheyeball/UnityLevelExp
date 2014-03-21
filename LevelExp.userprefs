@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Water (Basic)/Sources/Shaders/FX-Water Simple.shader">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/bonk.cs">
     <Files>
-      <File FileName="Assets/Standard Assets/Water (Basic)/Sources/Shaders/FX-Water Simple.shader" Line="60" Column="32" />
+      <File FileName="Assets/Scripts/bonk.cs" Line="6" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
