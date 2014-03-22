@@ -4,6 +4,7 @@ using System.Collections;
 public class davy : MonoBehaviour {
 
 	public float pushPower = 2.0F;
+
 	void OnControllerColliderHit(ControllerColliderHit hit) {
 		Rigidbody body = hit.collider.attachedRigidbody;
 		if (body == null || body.isKinematic)
